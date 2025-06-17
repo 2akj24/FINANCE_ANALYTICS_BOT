@@ -23,7 +23,7 @@ This **Financial Growth Chatbot** is a Python-based application that provides in
 
 ## 🚀 Future Goals
 
-1. **GUI**: Add a user-friendly graphical interface and package the project as a standalone `.exe` application.
+1. **GUI**: Add a user-friendly graphical interface and package the project as a standalone `.exe` application. - DONE✅
 2. **Custom Files**: Allow users to upload their own CSV files in the expected format and analyze various datasets dynamically.
 
 ---
