@@ -16,7 +16,7 @@ This **Financial Growth Chatbot** is a Python-based application that provides in
 ## 👨‍💻 Author Note
 
 > This was my **first ever project**. Some basic features may be missing, which I will be improving in future updates.  
-> I have taken help from **Python Documentation**, **YouTube**, **Forage**, **ChatGPT**, **DeepSeek** and **Other websites**.  
+> I have taken help from **Python Documentation**, **YouTube**, **Forage**, **ChatGPT** and **Other websites**.  
 > The financial data is based on analysis of **10-K documents** submitted by these companies over the past 3 years. 😊
 
 ---
